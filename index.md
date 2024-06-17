@@ -30,12 +30,12 @@ Biosense-AI is an ECG achieving device which is integrated with Orange pi SBC fo
 ### Fall detection device for eldery people
 [repo](https://github.com/Medmindz)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Developing an algorithm to detect falls of adult individuals and implemented a prototype(PCBs and enclosure) which can be used to detect potential falls with the help of MPU6050 gyroscope and inform required parties via SMS after detecting such incident.
 
 ### Saline flow controller
 [repo](https://github.com/Medmindz)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This is an curriculum related project which mainly focused aboout regulatory aspects of biomedical device design. We developed an prototype for saline flow controller which used to control saline flow providing more customization options for hospitals. We documented the whole device design pathway and prepared documents regarding regulatory aspects. 
 
 
 
