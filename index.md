@@ -14,18 +14,14 @@ layout: default
 
 ## Projects
 ### Restaurant Robot
-[repo](https://github.com/LUNA-Vision-based-Restaurant-Robot)
+[repo](https://github.com/LUNA-Vision-based-Restaurant-Robot) 
 
 Restaurant Robot which is implemented with a vision based navigation system with the usage of Kinectv2 camera. We have done our project ROS1 Noetic Ninjemys and used fakelidar of kinect to navigate without the usage of a lidar. We used gazebo for simulation purposes and we are still continuing the project with ROS2 integration.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Biosense-AI Deep Learning Based ECG Signal Classifier and Interpreter
-[repo](https://github.com/BioSense-AI)
+[repo](https://github.com/BioSense-AI) [demo](https://www.youtube.com/watch?v=8SEWwqLYNFU)
 
 Biosense-AI is an ECG achieving device which is integrated with Orange pi SBC for computations. It uses our specially designed PCB for filtering and amplification of Ethe signal which is to be fed in to the SBC via analog to digital converter. Also we captures SPO2 and Heart Rate data through integrated sensors which also used to be processed by the SBC. We uses deep learning techniques to capture and uses SHAP values to interpret deformities in ECG waveform.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Fall detection device for eldery people
 [repo](https://github.com/Medmindz)
