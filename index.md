@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+## Biomedical Engineering Undergraduate
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
