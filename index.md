@@ -8,7 +8,8 @@ layout: default
 #### Technical Skills: Python, MATLAB, Altium
 
 ## Education
-- BSc. Engineering (Hons.) in Biomedical Engineering,\ University of Moratuwa (ongoing)								       		
+- BSc. Engineering (Hons.) in Biomedical Engineering,\
+   University of Moratuwa (ongoing)								       		
 
 
 ## Projects
