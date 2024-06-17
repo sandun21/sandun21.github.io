@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Biomedical Engineering Undergraduate
-[[./docs/cv.pdf]].
+[[./docs/cv.pdf]]
 
 There should be whitespace between paragraphs.
 
