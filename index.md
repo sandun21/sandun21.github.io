@@ -8,33 +8,30 @@ layout: default
 #### Technical Skills: Python, MATLAB, Altium
 
 ## Education
-- BSc. Engineering (Hons.) in Biomedical Engineering, University of Moratuwa - ongoing								       		
+- BSc. Engineering (Hons.) in Biomedical Engineering,\\ University of Moratuwa (ongoing)								       		
 
 
 ## Projects
 ### Restaurant Robot
 [repo](https://github.com/LUNA-Vision-based-Restaurant-Robot)
-
-Restaurant Robot which is implemented with a vision based navigation system with the usage of Kinectv2 camera.
+Restaurant Robot which is implemented with a vision based navigation system with the usage of Kinectv2 camera. We have done our project ROS1 Noetic Ninjemys and used fakelidar of kinect to navigate without the usage of a lidar.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Biosense-AI Deep Learning Based ECG Signal Classifier and Interpreter
+[repo](https://github.com/BioSense-AI)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Fall detection device for eldery people
+[repo](https://github.com/Medmindz)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
