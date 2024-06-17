@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -22,6 +24,22 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <!-- Social Media Buttons -->
+        <div class="social-buttons">
+          <a href="https://github.com/YOUR_GITHUB_USERNAME" class="social-button github-button" aria-label="GitHub">
+              <i class="fab fa-github"></i>
+          </a>
+          <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" class="social-button stackoverflow-button" aria-label="Stack Overflow">
+              <i class="fab fa-stack-overflow"></i>
+          </a>
+          <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" class="social-button kaggle-button" aria-label="Kaggle">
+              <i class="fab fa-kaggle"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" class="social-button linkedin-button" aria-label="LinkedIn">
+              <i class="fab fa-linkedin"></i>
+          </a>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -48,7 +66,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Feel free to reach me through <a href="mailto:herathhmsi.21@uom.lk"> herathhmsi.21@uom.lk </a></small></p>
+        <p><small>Feel free to reach me through <a href="mailto:herathhmsi.21@uom.lk">herathhmsi.21@uom.lk</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
