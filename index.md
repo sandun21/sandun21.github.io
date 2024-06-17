@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Biomedical Engineering Undergraduate
-[Link to another page](./another-page.html).
+[Curriculum Vitae](./docs/cv.pdf).
 
 There should be whitespace between paragraphs.
 
