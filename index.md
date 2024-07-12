@@ -14,8 +14,9 @@ layout: default
 
 ## Projects
 ### Restaurant Robot 
-<div class="project-description">
+
 [<i class="fab fa-github"></i>](https://github.com/LUNA-Vision-based-Restaurant-Robot) [<i class="fab fa-youtube"></i>](https://youtube.com/@robotluna?si=S4_BzK16-BDqDsv9)
+<div class="project-description">
 Restaurant Robot which is implemented with a vision based navigation system with the usage of Kinectv2 camera. We have done our project ROS1 Noetic Ninjemys and used fakelidar of kinect to navigate without the usage of a lidar. We used gazebo for simulation purposes and we are still continuing the project with ROS2 integration.
 </div>
 
