@@ -3,6 +3,20 @@
 
 @import "jekyll-theme-minimal";
 
+.wrapper > header {
+	text-align: center;
+}
+
+.wrapper > header img {
+	display: block;
+	margin: 0 auto 1rem;
+}
+
+.wrapper > header p {
+	margin: 0 auto 1rem;
+	max-width: 16rem;
+}
+
 .social-buttons {
 	display: flex;
 	justify-content: space-evenly;
@@ -21,6 +35,19 @@
 	height: 2.75rem;
 	border-radius: 999px;
 	text-decoration: none;
+}
+
+.cv-badge {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+	font-size: 0.85rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	font-family: inherit;
 }
 
 .social-button i {
