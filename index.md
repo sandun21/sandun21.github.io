@@ -9,7 +9,7 @@ layout: default
 
 ## Education
 - BSc. Engineering (Hons.) in Biomedical Engineering,\
-   University of Moratuwa                  (2022-Ongoing)								       		
+   University of Moratuwa                  (2022-2026)								       		
 
 
 ## Projects
