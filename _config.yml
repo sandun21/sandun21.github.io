@@ -28,3 +28,7 @@ font: "Sans Serif"
 
 # Remote theme
 remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
