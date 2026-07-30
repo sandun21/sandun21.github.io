@@ -25,7 +25,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.position | default: site.github.project_tagline }}</p>
+        <p>{{ site.affiliation | default: site.github.project_tagline }}</p>
 
         <!-- Social Media Buttons -->
         <div class="social-buttons">
