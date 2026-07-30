@@ -1,7 +1,30 @@
+# Basic Information 
 title: Sandun Herath
-logo: /assets/me.jpg
 position: Final year undergraduate
 affiliation: University of Moratuwa
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+email: herathhmsi.21@uom.lk
+
+# Search Engine Optimization (SEO)
+keywords: sandun herath sandun21
+description: Final year undergraduate at University of Moratuwa
+canonical: https://sandun21.github.io/
+
+# Links 
+cv_link: docs/cv.pdf
+github_link: https://github.com/sandun21
+linkedin: https://www.linkedin.com/in/sandun-herath-60bb17256
+
+# Images 
+avatar: ./assets/me.jpg
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Sans Serif"
+
+# Remote theme
+remote_theme: yaoyao-liu/minimal-light
